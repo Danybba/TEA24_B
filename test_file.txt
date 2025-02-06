@@ -5,6 +5,8 @@ Niclas Müller
 euer name
 euer name
 tom oje holst
+<<<<<<<<< Temporary merge branch 1
 Marit Schiller
+=========
 Patrick Bosslet
-Linus Wohlgemuth
+>>>>>>>>> Temporary merge branch 2
