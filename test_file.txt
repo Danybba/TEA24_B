@@ -7,7 +7,10 @@ Niclas Müller
 euer name
 tom oje holst
 <<<<<<< HEAD
+<<<<<<< HEAD
 Dieja Saher Karim
 =======
 >>>>>>> 3f72aa792d495de8bfde706b019add249576612f
 >>>>>>> 63b65c6da8f3019235676db2f9bfd86311e8a596
+=======
+>>>>>>> c2a11c9d6e845f2552d1cac91b2e3568af4b345b
