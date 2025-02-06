@@ -1,4 +1,22 @@
 Daniel Schäftner
+<<<<<<< HEAD
 euer name
 tom oje holst
 Marit Schiller
+=======
+<<<<<<< HEAD
+euer name
+Albion
+Niclas Müller
+euer name
+tom oje holst
+Patrick Bosslet
+Marit Schiller
+Dieja Saher Karim
+<<<<<<< HEAD
+Avinash Suthakaran
+=======
+Diedan Saher Karim
+>>>>>>> c3a698c7aaab6e9d338867989f2abd336eb884b8
+>>>>>>> ebd9806548777e445722f95a30be64ca6386cc76
+Nico Leder
