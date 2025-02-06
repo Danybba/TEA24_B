@@ -2,11 +2,14 @@ Daniel Schäftner
 <<<<<<< HEAD
 euer name
 Albion
-=======
 Niclas Müller
 euer name
 tom oje holst
 Patrick Bosslet
 Marit Schiller
 Dieja Saher Karim
+<<<<<<< HEAD
 Avinash Suthakaran
+=======
+Diedan Saher Karim
+>>>>>>> c3a698c7aaab6e9d338867989f2abd336eb884b8
