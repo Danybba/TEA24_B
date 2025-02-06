@@ -1,16 +1,14 @@
 Daniel Schäftner
-<<<<<<< HEAD
 euer name
 Albion
-=======
 Niclas Müller
 euer name
 euer name
 tom oje holst
-<<<<<<< HEAD
+Patrick Bosslet<<<<<<< HEAD
 Robin Vogt
->>>>>>> 3f72aa792d495de8bfde706b019add249576612f
 =======
 Marit Schiller
 >>>>>>> caf191af37bfa7643a13d1e03c72cde57f3a6c8d
 Mika Niederheide
+linus wohlgemuth
