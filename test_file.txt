@@ -1,6 +1,9 @@
 Daniel Schäftner
+<<<<<<< HEAD
+euer name
+Albion
+=======
 Niclas Müller
 euer name
 euer name
 tom oje holst
-Patrick Boßlet
