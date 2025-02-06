@@ -1,5 +1,13 @@
 Daniel Schäftner
+<<<<<<< HEAD
+euer name
+Albion
+=======
 Niclas Müller
 euer name
 tom oje holst
+<<<<<<< HEAD
 Dieja Saher Karim
+=======
+>>>>>>> 3f72aa792d495de8bfde706b019add249576612f
+>>>>>>> 63b65c6da8f3019235676db2f9bfd86311e8a596
