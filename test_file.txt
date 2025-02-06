@@ -3,10 +3,6 @@ euer name
 Albion
 Niclas Müller
 euer name
-euer name
 tom oje holst
-<<<<<<<<< Temporary merge branch 1
-Marit Schiller
-=========
-Patrick Bosslet
->>>>>>>>> Temporary merge branch 2
+Patrick BossletMarit Schiller
+Linus Wohlgemuth
