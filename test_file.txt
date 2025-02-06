@@ -10,6 +10,7 @@ tom oje holst
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Dieja Saher Karim
 =======
 >>>>>>> 3f72aa792d495de8bfde706b019add249576612f
@@ -27,3 +28,6 @@ Robin Vogt
 Marit Schiller
 >>>>>>> caf191af37bfa7643a13d1e03c72cde57f3a6c8d
 >>>>>>> ea9807f9ab09495f9adc265661208d87eba9b71b
+=======
+Patrick Bosslet
+>>>>>>> 14223537a37f982596d3b17065fd69f9149f7ba7
