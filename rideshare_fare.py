@@ -19,4 +19,4 @@
   wobei die credits vom ride_price abgezogen und in final_price gespeichert werden. 
 - Nun geben wir den finalen Fahrpreis ebenfalls auf der Console kommentiert aus. 
   Der String soll hierbei den Inhalt der Variable final_price beinhalten. 
-"""
+"""g
