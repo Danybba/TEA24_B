@@ -40,4 +40,40 @@
 # print(type(komma))
 # print(type(boolsch))
 
-help(print)
+# help(print)
+
+
+# age = int(input("Enter your age: "))
+
+# if age >= 18:
+#     print("Old enough")
+
+
+can_drive = True
+has_license = True
+has_insurance = True
+alcohol = 0.5
+
+age = int(input("Enter your age: "))
+
+if (18 <= age) and ((True == has_license) or (True == has_insurance)) and (alcohol < 0.3):
+    can_drive = True
+else:
+    can_drive = False 
+
+if can_drive:
+    print("Can drive")
+else:
+    print("Can't drive")
+
+
+# hour = int(input("Enter the hour: "))
+
+# if hour < 12:
+#     print("Good morning")
+# elif hour < 18:
+#     print("Good afternoon")
+# elif hour < 22:
+#     print("Good evening")
+# else:
+#     print("Good night")
