@@ -36,7 +36,10 @@ final_price = float(0)
 ride_type = input("Do you want Upgrades ? \nbasic\npuls\ncomfort\n")
 creditsTemp = input("Credits: ")
 try:
-  credits = int(creditsTemp)
+  credits = float(creditsTemp)
+except:
+
+  print("Bitte geben sie nächstes mal eini gültige Zahl ein")
 
 #Input
 #------------------------------------------------------------------------------------------------------------------------------------------------
@@ -49,7 +52,7 @@ elif ride_type == "comfort":
 else:
   ride_price = 18.7
 
-if credits > 0 and credits >= ride_price:
+if credits > 0 and credits <= ride_price:
   final_price = ride_price - credits
   credits = 0
 elif credits > ride_price:
@@ -62,7 +65,7 @@ elif credits > ride_price:
 
 print("Your Price before credits is " + str(ride_price))
 print("After Credits it is " + str(final_price))
-print("Your have " + str(credits) + "Credits")
+print("Your have " + str(credits) + " Credits")
 
   
 
