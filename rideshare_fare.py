@@ -20,3 +20,44 @@
 - Nun geben wir den finalen Fahrpreis ebenfalls auf der Console kommentiert aus. 
   Der String soll hierbei den Inhalt der Variable final_price beinhalten. 
 """
+
+error = False
+
+# Abfrage des Fahrtenupgrades
+ride_type = input("Möchten Sie ein Fahrtenupgrade (plus oder comfort)? ")
+
+# Abfrage der verfügbaren Credits
+credits = (input("Wie viele Credits haben Sie? "))
+
+try:
+    credits = float(credits)
+except:
+    print("Bitte geben Sie eine gültige Zahl ein.")
+    error = True
+
+# Initialisierung der Variablen
+ride_price = 0
+final_price = 0
+
+# Überprüfung des Fahrtenupgrades und Festlegung des Fahrpreises
+if "plus" == ride_type.lower():
+    ride_price = 20.5
+elif "comfort" == ride_type:
+    ride_price = 37.9
+else:
+    ride_price = 18.7
+
+# Ausgabe des Fahrpreises
+print(f"Der Fahrpreis beträgt: {ride_price} Euro")
+
+# Verrechnung der Credits
+if False == error:
+    if credits > 0:
+        final_price = ride_price - credits
+    else:
+        final_price = ride_price
+else:
+    print("Fehler bei der Eingabe der Credits.")
+
+# Ausgabe des finalen Fahrpreises
+print(f"Der finale Fahrpreis nach Verrechnung der Credits beträgt: {final_price} Euro")

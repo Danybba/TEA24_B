@@ -49,22 +49,22 @@
 #     print("Old enough")
 
 
-can_drive = True
-has_license = True
-has_insurance = True
-alcohol = 0.5
+# can_drive = True
+# has_license = True
+# has_insurance = True
+# alcohol = 0.5
 
-age = int(input("Enter your age: "))
+# age = int(input("Enter your age: "))
 
-if (18 <= age) and ((True == has_license) or (True == has_insurance)) and (alcohol < 0.3):
-    can_drive = True
-else:
-    can_drive = False 
+# if (18 <= age) and ((True == has_license) or (True == has_insurance)) and (alcohol < 0.3):
+#     can_drive = True
+# else:
+#     can_drive = False 
 
-if can_drive:
-    print("Can drive")
-else:
-    print("Can't drive")
+# if can_drive:
+#     print("Can drive")
+# else:
+#     print("Can't drive")
 
 
 # hour = int(input("Enter the hour: "))
@@ -77,3 +77,8 @@ else:
 #     print("Good evening")
 # else:
 #     print("Good night")
+
+text = input("Enter a text: ")
+
+if "word" in text.lower():
+    print("The word is in the text")
