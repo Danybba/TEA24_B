@@ -15,3 +15,10 @@ Avinash Suthakaran
 =======
 Diedan Saher Karim
 >>>>>>> c3a698c7aaab6e9d338867989f2abd336eb884b8
+<<<<<<< Updated upstream
+=======
+>>>>>>> ebd9806548777e445722f95a30be64ca6386cc76
+Linus
+Tom
+Nico 
+>>>>>>> Stashed changes
