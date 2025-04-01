@@ -148,7 +148,6 @@
 
 # print(bonus)
 
-
 # result = calculator(10, 20, '+')
 # print(result)
 
@@ -203,3 +202,6 @@ from arrow_function_lib import arrow
 # pie.render_in_browser()
 
 arrow(5)
+
+result = calculator(10, 20, '+')
+print(result)
