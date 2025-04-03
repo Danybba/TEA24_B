@@ -148,6 +148,60 @@
 
 # print(bonus)
 
+# result = calculator(10, 20, '+')
+# print(result)
+
+# age_1 = 20 
+# age_2 = 15
+# age_3 = 30
+
+# age = [10, 20, 30, 40, 50]
+
+# age[2] = 25
+# age.append(60)
+# age.insert(2, 35)
+# age.pop(2)
+# print(age)
+# print(age[3])
+# print(len(age))
+
+# for ages in age: 
+#     print(ages + 5)
+
+
+
+
+# todo_0 = "clean"
+# todo_1 = "cook"
+# todo_2 = "work"
+
+# todo = ["clean", "cook", "work"]
+# print(todo)
+# print(todo[1])
+
+# plan = []
+# print(plan)
+
+import math, pygal, os
+
+from arrow_function_lib import arrow
+
+# print(1)
+# print(mathematics.pi)
+# print(mathematics.sqrt(16))
+
+# rounded = math.ceil(4.1)
+# print(rounded)
+
+# pie = pygal.Pie()
+# pie.title = "Time spend on social network"
+# pie.add("Facebook", 50)
+# pie.add("Instagram", 30)    
+# pie.add("Twitter", 220)
+
+# pie.render_in_browser()
+
+arrow(5)
 
 result = calculator(10, 20, '+')
 print(result)
